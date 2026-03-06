@@ -1,4 +1,5 @@
 from pptx import Presentation
+from pathlib import Path
 import re
 import json
 
@@ -12,7 +13,8 @@ def delete_newline(string):
 TOLERANCE_ALIGNEMENT_HORIZONTAL = 200000 # En EMU (21 en pixels)
 
 def extract_infos_competences(nom_powerpoint_referentiel):
-    path = f"Documents_competences/referentiels_APC/{nom_powerpoint_referentiel}"
+    base_dir = Path(__file__).resolve().parent
+    path = base_dir / "Documents_competences" / "referentiels_APC" / nom_powerpoint_referentiel
     pres = Presentation(path)
 
     dict_infos = {}
@@ -82,6 +84,6 @@ def extract_infos_competences(nom_powerpoint_referentiel):
         json.dump(dict_infos, f, ensure_ascii=False, indent=4)
 
 
-# extract_infos_competences("20251208_Referentiel_IDU.pptx")
+extract_infos_competences("20251208_Referentiel_IDU.pptx")
 
 
