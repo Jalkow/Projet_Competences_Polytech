@@ -1,5 +1,6 @@
 from recup_data_matrice_croisees import extract_infos_matrices
 from recup_data_referentiels_powerpoint import extract_infos_competences
+from recup_data_programme import extract_infos_programme
 
 from pathlib import Path
 import json
@@ -13,9 +14,11 @@ def get_all_data_as_json(diminutif_formation):
 
     powerpoint_competences_path = base_dir / "Documents_competences" / "referentiels_APC" / f"referentiel_{diminutif_formation}.pptx"
     matrice_path = base_dir / "Documents_competences" / "matrices_croisees" / f"matrice_croisee_{diminutif_formation}.xlsx"
+    programme_path = base_dir / "Documents_competences" / "programmes" / f"programme_{diminutif_formation}.pdf"
 
     infos_powerpoint_competences = extract_infos_competences(powerpoint_competences_path)
     infos_matrice_croisee = extract_infos_matrices(matrice_path)
+    extract_infos_programme(programme_path)
 
     # print(infos_powerpoint_competences)
     # print("----------------------")
@@ -42,7 +45,7 @@ def get_all_data_as_json(diminutif_formation):
 
     # mise à jour infos CE et AC
     for comp in all_infos_formation["liste_competences"]:
-        
+
         # AC par annee
         for annee in comp["apprentissages_crit"].values():
             completed_infos_AC_list = []
