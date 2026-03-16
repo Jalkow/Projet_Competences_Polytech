@@ -6,7 +6,7 @@ def cleanup_string(strig_to_cleanup):
     return re.sub(r"[^A-Za-z0-9!,./<>()'’àÀèÈéÉâÂêÊîÎôÔûÛœ\n -]+", "", strig_to_cleanup)
 
 def delete_newline(string):
-    return re.sub(r"\n", "", string)
+    return re.sub(r"\n", "", string).strip()
 
 
 TOLERANCE_ALIGNEMENT_HORIZONTAL = 200000 # En EMU (21 en pixels)
