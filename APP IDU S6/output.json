@@ -1,0 +1,217 @@
+{
+    "titre": "Informations générales",
+    "specialite": "IDU",
+    "cours": "Cours : Proj632 (30h tutorées + 30h en autonomie durant",
+    "semestre": null,
+    "objectifs": [
+        "L’objectif de ce projet est d’acquérir de la donnée accessible sur le web ou des bases de données publiques ou privées. L’enjeux est de les stocker et de les présenter via une API afin qu’elles soient utilisables par d’autres applications au cours des prochains semestres. Vous serez amenés à faire des choix de sources de données, de systèmes de stockage et de technologie pour exposer vos données. Des comparaisons entre différents systèmes pourront être judicieuses pour justifier vos choix."
+    ],
+    "competences": [
+        {
+            "nom": "CONCEVOIR ET METTRE\nEN ŒUVRE DES SYSTÈMES\nINFORMATIQUES",
+            "apprentissages": [
+                "Concevoir, gérer et utiliser une base de données",
+                "Mettre en œuvre une architecture client-serveur 3-tiers",
+                "Concevoir et implémenter une application web de rendu de données intégrant une BD"
+            ]
+        },
+        {
+            "nom": "COLLECTER ET TRAITER\nDES DONNÉES\nNUMÉRIQUES",
+            "apprentissages": [
+                "Acquérir des données provenant d’Internet",
+                "Récupérer des données provenant d’un dépôt de données structurées"
+            ]
+        },
+        {
+            "nom": "GÉRER LES USAGES DES\nDONNÉES NUMÉRIQUES\nEN LIEN AVEC LE CLIENT",
+            "apprentissages": [
+                "Construire des API de plateformes numériques",
+                "Définir, analyser et interpréter les problématiques techniques liées aux problématiques sociétales"
+            ]
+        },
+        {
+            "nom": "GÉRER UN PROJET\nINFORMATIQUE",
+            "apprentissages": [
+                "Définir un projet, ses objectifs, ses acteurs et les outils de gestion de projet",
+                "Mettre en œuvre une méthode de gestion de projet informatique et des outils collaboratifs associés",
+                "Mettre en œuvre des outils de planification et de suivi de projet"
+            ]
+        }
+    ],
+    "evaluation": [
+        {
+            "objectif": "Temporalité / \nType de séance",
+            "livrable": "Objectifs",
+            "type": "Action de l’étudiant / Livrable attendu",
+            "outil": "Temps dédié"
+        },
+        {
+            "objectif": "Séance de lancement\nSéance 1 \n\nDébut du sprint 1 – Sprint planning",
+            "livrable": "Présentation des objectifs du projet et de l’évaluation des compétences\n\nPrésence des clients pour préciser les attendus du projet",
+            "type": "Définir le périmètre et l’organisation du projet – Choisir des outils collaboratifs – Identifier les premières sources de données",
+            "outil": "1h + 3h"
+        },
+        {
+            "objectif": "Séance 2 – Apport théorique",
+            "livrable": "Techniques d’acquisition de données – Utilisation API",
+            "type": "Exercices d’application",
+            "outil": "2h"
+        },
+        {
+            "objectif": "Séance 3 – Sprint 1",
+            "livrable": "Acquisition de données",
+            "type": "",
+            "outil": "4h"
+        },
+        {
+            "objectif": "Séance 4 \nRéunion client \nRestitution du sprint 1 – Sprint review\n\nSéminaire de traces\n\nSprint planning (Sprint 2)",
+            "livrable": "Répartition des équipes dans des salles différentes. \n\nValidation des sources de données identifiées et de premières acquisitions",
+            "type": "Support de présentation sur les sources de données (présentation collective)\n\nArgumentation de traces collectives devant le client (Chaque étudiant choisit une trace à argumenter mais ils préparent collectivement l’argumentation)",
+            "outil": "1h30 + 2h30"
+        },
+        {
+            "objectif": "Séance 5 – Sprint 2",
+            "livrable": "Stockage des données acquises",
+            "type": "",
+            "outil": "4h"
+        },
+        {
+            "objectif": "Séance 6 – Réunion client \nRestitution du sprint 2 – Sprint review\n\nSéminaire de traces\n\nSprint planning (Sprint 3)",
+            "livrable": "Répartition des équipes dans des salles différentes. \n\nValidation des modèles conceptuels de stockage",
+            "type": "Architecture logicielle choisie (présentation collective)\n\nArgumentation de traces collectives devant le client (Chaque étudiant choisit une trace à argumenter mais ils préparent collectivement l’argumentation)",
+            "outil": "4h"
+        },
+        {
+            "objectif": "Séance 7 – Sprint 3",
+            "livrable": "Présentation des données en vue d’une utilisation par une application tiers",
+            "type": "",
+            "outil": "4h"
+        },
+        {
+            "objectif": "Séance 8 – Soutenance\n \nBilan de fin de semestre\n\nSprint 3 – Sprint review\n\nSoutenance orale",
+            "livrable": "Bilan final sur le projet / réflexivité sur les actions entreprises (Bilan collectif) (S6)\nBilan de compétences (Bilan individuel)\nFournir le produit au client",
+            "type": "Bilan sur l’acquisition, stockage et diffusion des données \n\nSoutenance orale collective\nDémo\nPrésentation individuelle / bilan de compétences\nRemise des livrables au client",
+            "outil": "4h"
+        },
+        {
+            "objectif": "Objectifs",
+            "livrable": "Livrable et format (oral, écrit, sentiment de compétence)",
+            "type": "Type (sommative, formative, auto-évaluation)",
+            "outil": "Outil (grille critériée, portfolio)"
+        },
+        {
+            "objectif": "Compréhension du besoin et des objectifs",
+            "livrable": "Mail de synthèse ou autres",
+            "type": "Formative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Vérification de la modularité, généricité, évolutivité et documentation",
+            "livrable": "Code (dépôt GIT / VCS) + Readme + prompts LLM",
+            "type": "Sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Vérification de la mise en œuvre de la méthode de gestion et de planification du projet",
+            "livrable": "Accès à l’outil de gestion de projet au choix",
+            "type": "Formative et sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Vérification de la communication",
+            "livrable": "Support de présentation orale",
+            "type": "Formative et sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Vérification de la conception",
+            "livrable": "Plan / document de conception",
+            "type": "Formative et sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Réflexion sur la qualité de la donnée",
+            "livrable": "Document d’analyse",
+            "type": "Formative et sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Réflexion sur l’hétérogénéité",
+            "livrable": "Document d’analyse",
+            "type": "Formative et sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "Réflexion sur la confidentialité",
+            "livrable": "Document d’analyse",
+            "type": "Formative et sommative",
+            "outil": "Grille critériée\nPortfolio"
+        },
+        {
+            "objectif": "En amont des AMS",
+            "livrable": "Présenter le référentiel de compétences\nPrésenter la démarche portfolio",
+            "type": "Découvrir le référentiel de compétences\n± mise en exercice de l’étudiant : argumenter une trace, identifier les traces potentielles, etc.",
+            "outil": "Intégré aux sessions de présentation du parcours\nOu séance(s) dédiée APC (1h min)"
+        },
+        {
+            "objectif": "1ère séance : Introduction de l’AMS",
+            "livrable": "Présenter l’AMS (le projet) \n\nPrésenter les attendus en termes de compétences et sur la réflexivité",
+            "type": "Variable : aucun ou permettant à l’étudiant de se projeter dans le projet (exemple : dresser la liste de traces à récolter)",
+            "outil": "Variable \nJusqu’à 30 minutes"
+        },
+        {
+            "objectif": "Exemple",
+            "livrable": "Si cela n’a pas été fait en amont / par exemple dans le cas d’un 1er projet 3A :\nPrésenter le référentiel de compétences\nPrésenter la démarche portfolio",
+            "type": "",
+            "outil": "30 minutes"
+        },
+        {
+            "objectif": "En cours d’AMS",
+            "livrable": "Argumenter…\nLe choix de projet / les argumenter compétences déjà acquises / les compétences choisies\nUne production / les compétences développées et la qualité de l’action",
+            "type": "Travail préparatoire de (Texte)\nPrésentation orale, débat\n\nDonner des consignes aux observateurs",
+            "outil": "15 minutes de (pour un étudiant)\n\nÉvaluation formative"
+        },
+        {
+            "objectif": "Exemple Polytech Annecy",
+            "livrable": "Régulation à la demande : l’étudiant peut solliciter un feedback à un tuteur / enseignant expert (nombre de jetons à utiliser intelligemment au cours de l’AMS)",
+            "type": "Rédaction et présentation du compte rendu bref de réunion",
+            "outil": "20 minutes"
+        },
+        {
+            "objectif": "En cours d’AMS",
+            "livrable": "Produire…\nEt Préparer à la collecte de traces\nDiversité d’éléments pouvant être collectés par les étudiants",
+            "type": "Consigne visant à demander à l’étudiant de collecter le produit de sa séance et le déposer sur son portfolio",
+            "outil": "5 minutes"
+        },
+        {
+            "objectif": "Exemple",
+            "livrable": "",
+            "type": "Collecter l’objet produit (ex : prototype, démo, documentation technique...)\nRédiger un CR de la séance et les perspectives pour la suivante\nVersionning (exemple : Github utilisé pour le code)",
+            "outil": ""
+        },
+        {
+            "objectif": "Dernières séances",
+            "livrable": "Rendre compte de son action et de sa compétence (en autonomie)",
+            "type": "Rapport de projet (en groupe) / Poster / vidéos / PPT \nBilan individuel des compétences développées au cours de l’AMS",
+            "outil": "Variable selon les séances"
+        },
+        {
+            "objectif": "Argumenter 1 compétence (individuel)",
+            "livrable": "Texte 10 lignes\nOral 5 min",
+            "type": "Sommative",
+            "outil": "Grille globale"
+        },
+        {
+            "objectif": "Évaluation par les pairs",
+            "livrable": "",
+            "type": "Formatif / Sommatif",
+            "outil": ""
+        },
+        {
+            "objectif": "Entretien individuel chaque semestre (APP)",
+            "livrable": "Bilan oral de compétences",
+            "type": "Sommative",
+            "outil": ""
+        }
+    ]
+}
