@@ -1,8 +1,8 @@
 import os
 import json
 import re
-from docx import Document
 
+from docx import Document
 # UTILITAIRES
 
 def clean_lines(text):
