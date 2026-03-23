@@ -18,11 +18,7 @@ def get_all_data_as_json(diminutif_formation):
 
     infos_powerpoint_competences = extract_infos_competences(powerpoint_competences_path)
     infos_matrice_croisee = extract_infos_matrices(matrice_path)
-    extract_infos_programme(programme_path)
-
-    # print(infos_powerpoint_competences)
-    # print("----------------------")
-    # print(infos_matrice_croisee)
+    extract_infos_programme(programme_path, "initial")
 
     with open(f"{diminutif_formation}_output_referentiel.json", "w", encoding="utf-8") as f:
         json.dump(infos_powerpoint_competences, f, ensure_ascii=False, indent=4)
