@@ -1,0 +1,28 @@
+{
+  "UE502": {
+    "nom": "Travail en entreprise",
+    "modules": []
+  },
+  "UE503": {
+    "nom": "Sciences de spécialité",
+    "modules": [
+      {
+        "nom": "Gestion de projets MODULE",
+        "CM": 6,
+        "TD": 6,
+        "TP": 28
+      }
+    ]
+  },
+  "UE999": {
+    "nom": "UE fictive",
+    "modules": [
+      {
+        "nom": "Module test MODULE",
+        "CM": 10,
+        "TD": 5,
+        "TP": 15
+      }
+    ]
+  }
+}
