@@ -1,0 +1,1936 @@
+{
+    "liste_UE": [
+        {
+            "code": "UE501",
+            "nom": "Passerelle vers le parcours professionnel",
+            "liste_modules": [
+                {
+                    "nom": "Anglais S5",
+                    "code": "LANG501_PACY",
+                    "heures_TD": 40.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Sport",
+                    "code": "SHES501_PACY",
+                    "heures_TD": 21.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Simulation de gestion d'entreprise",
+                    "code": "SHES505_PACY",
+                    "heures_TD": 1.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "ADCO501_PACY",
+                    "heures_TD": 12.0,
+                    "heures_TP": 0,
+                    "heures_CM": 3.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Stage facultatif S5",
+                    "code": "PROJ500_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "ACCO501_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 64.0
+                }
+            ]
+        },
+        {
+            "code": "UE502",
+            "nom": "Sciences et Outils de l'Ingénieur",
+            "liste_modules": [
+                {
+                    "nom": "Développement Durable",
+                    "code": "DDRS501_PACY",
+                    "heures_TD": 12.0,
+                    "heures_TP": 0,
+                    "heures_CM": 15.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "INFO501_PACY",
+                    "heures_TD": 6.0,
+                    "heures_TP": 12.0,
+                    "heures_CM": 3.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "entreprises)",
+                    "code": "INFO502_PACY",
+                    "heures_TD": 4.5,
+                    "heures_TP": 12.0,
+                    "heures_CM": 6.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "MATH500_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 15.0
+                },
+                {
+                    "nom": "Mathématiques Tronc Commun",
+                    "code": "MATH501_PACY",
+                    "heures_TD": 37.5,
+                    "heures_TP": 0,
+                    "heures_CM": 16.5,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE503",
+            "nom": "Sciences de l'ingénieur IDU1",
+            "liste_modules": [
+                {
+                    "nom": "Gestion de projets",
+                    "code": "PROJ531_IDU",
+                    "heures_TD": 6.0,
+                    "heures_TP": 28.0,
+                    "heures_CM": 6.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Sociétés numériques",
+                    "code": "ISOC531_IDU",
+                    "heures_TD": 22.5,
+                    "heures_TP": 4.0,
+                    "heures_CM": 13.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Graphes et Récursivité",
+                    "code": "INFO532_IDU",
+                    "heures_TD": 12.0,
+                    "heures_TP": 16.0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Programmation C",
+                    "code": "INFO503_PACY",
+                    "heures_TD": 6.0,
+                    "heures_TP": 12.0,
+                    "heures_CM": 6.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Langages et Paradigmes",
+                    "code": "INFO531_IDU",
+                    "heures_TD": 9.0,
+                    "heures_TP": 16.0,
+                    "heures_CM": 10.5,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE601",
+            "nom": "Passerelle vers le parcours professionnel",
+            "liste_modules": [
+                {
+                    "nom": "Expérience professionnelle",
+                    "code": "PROJ601_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Gestion financière",
+                    "code": "SHES601_PACY",
+                    "heures_TD": 9.0,
+                    "heures_TP": 0,
+                    "heures_CM": 10.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Initiation au droit",
+                    "code": "SHES602_PACY",
+                    "heures_TD": 4.5,
+                    "heures_TP": 0,
+                    "heures_CM": 15.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Enjeux de l'intelligence artificielle",
+                    "code": "DATA601_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 6.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "PROJ602_PACY",
+                    "heures_TD": 9.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG601_PACY",
+                    "heures_TD": 40.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG602_PACY",
+                    "heures_TD": 15.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Advanced English S6",
+                    "code": "ENGL602_PACY",
+                    "heures_TD": 21.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Stage facultatif S6",
+                    "code": "PROJ600_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "FISA sont présents)",
+                    "code": "ACCO601_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 32.0
+                }
+            ]
+        },
+        {
+            "code": "UE602",
+            "nom": "Mathématiques et algorithmique",
+            "liste_modules": [
+                {
+                    "nom": "Logique et Programmation",
+                    "code": "INFO631_IDU",
+                    "heures_TD": 10.5,
+                    "heures_TP": 20.0,
+                    "heures_CM": 10.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Projet Algorithmique",
+                    "code": "PROJ631_IDU",
+                    "heures_TD": 42.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Probabilités et Statistiques",
+                    "code": "MATH631_IDU",
+                    "heures_TD": 18.0,
+                    "heures_TP": 0,
+                    "heures_CM": 18.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "INFO634_IDU",
+                    "heures_TD": 21.0,
+                    "heures_TP": 8.0,
+                    "heures_CM": 9.0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE603",
+            "nom": "Environnement et Applications",
+            "liste_modules": [
+                {
+                    "nom": "web",
+                    "code": "INFO633_IDU",
+                    "heures_TD": 13.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 4.0
+                },
+                {
+                    "nom": "",
+                    "code": "INFO632_IDU",
+                    "heures_TD": 13.5,
+                    "heures_TP": 16.0,
+                    "heures_CM": 10.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Plateformes collaboratives",
+                    "code": "ISOC631_IDU",
+                    "heures_TD": 15.0,
+                    "heures_TP": 12.0,
+                    "heures_CM": 13.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "APP Projet Data Science",
+                    "code": "PROJ632_IDU",
+                    "heures_TD": 30.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE701",
+            "nom": "Passerelle vers le parcours professionnel",
+            "liste_modules": [
+                {
+                    "nom": "",
+                    "code": "SHES703_PACY",
+                    "heures_TD": 13.5,
+                    "heures_TP": 3.0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "SHES704_PACY",
+                    "heures_TD": 25.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG701_PACY",
+                    "heures_TD": 40.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG702_PACY",
+                    "heures_TD": 15.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Advanced English S7",
+                    "code": "ENGL702_PACY",
+                    "heures_TD": 21.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Stage facultatif S7",
+                    "code": "PROJ700_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "les FISA sont présents)",
+                    "code": "ACCO701_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 16.0
+                }
+            ]
+        },
+        {
+            "code": "UE702",
+            "nom": "Mathématiques et Données",
+            "liste_modules": [
+                {
+                    "nom": "Modélisation stochastique",
+                    "code": "DATA731_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 24.0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Sécurité et Cryptographie",
+                    "code": "INFO731_IDU",
+                    "heures_TD": 22.5,
+                    "heures_TP": 4.0,
+                    "heures_CM": 13.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Tests statistiques",
+                    "code": "MATH741_IDU",
+                    "heures_TD": 18.0,
+                    "heures_TP": 0,
+                    "heures_CM": 18.0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE703",
+            "nom": "Informatique et Conception",
+            "liste_modules": [
+                {
+                    "nom": "",
+                    "code": "INFO732_IDU",
+                    "heures_TD": 6.0,
+                    "heures_TP": 24.0,
+                    "heures_CM": 7.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "PROJ731_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Ce projet est dans la continuité du Projet Data Science",
+                    "code": "PROJ632_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 20.0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Analyse et visualisation de données",
+                    "code": "DATA732_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Mise en application des connaissances acquises en Analyse et visualisation de données",
+                    "code": "DATA732_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Réseaux et systèmes répartis",
+                    "code": "INFO733_IDU",
+                    "heures_TD": 16.0,
+                    "heures_TP": 4.0,
+                    "heures_CM": 18.0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE704",
+            "nom": "Visualisation et Gouvernance",
+            "liste_modules": [
+                {
+                    "nom": "Analyse et visualisation de données",
+                    "code": "DATA732_IDU",
+                    "heures_TD": 23.5,
+                    "heures_TP": 0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Développement Full Stack",
+                    "code": "INFO734_IDU",
+                    "heures_TD": 24.0,
+                    "heures_TP": 0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "ISOC731_IDU",
+                    "heures_TD": 21.0,
+                    "heures_TP": 4.0,
+                    "heures_CM": 15.0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE801",
+            "nom": "Passerelle vers le parcours professionnel",
+            "liste_modules": [
+                {
+                    "nom": "Sécurité Environnement)",
+                    "code": "SHES802_PACY",
+                    "heures_TD": 10.5,
+                    "heures_TP": 0,
+                    "heures_CM": 9.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Techniques de management",
+                    "code": "SHES803_PACY",
+                    "heures_TD": 7.5,
+                    "heures_TP": 0,
+                    "heures_CM": 18.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG801_PACY",
+                    "heures_TD": 40.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG802_PACY",
+                    "heures_TD": 15.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Advanced English S8",
+                    "code": "ENGL802_PACY",
+                    "heures_TD": 21.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Stage facultatif S8",
+                    "code": "PROJ800_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "les FISA sont présents",
+                    "code": "ACCO801_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 16.0
+                }
+            ]
+        },
+        {
+            "code": "UE802",
+            "nom": "Stage",
+            "liste_modules": [
+                {
+                    "nom": "Stage assistant ingénieur S8",
+                    "code": "PROJ801_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE803",
+            "nom": "Données et aide à la décision",
+            "liste_modules": [
+                {
+                    "nom": "Big Data",
+                    "code": "DATA831_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 12.0,
+                    "heures_CM": 7.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Machine Learning",
+                    "code": "DATA832_IDU",
+                    "heures_TD": 9.0,
+                    "heures_TP": 12.0,
+                    "heures_CM": 9.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Informatique décisionnelle",
+                    "code": "INFO831_IDU",
+                    "heures_TD": 9.0,
+                    "heures_TP": 12.0,
+                    "heures_CM": 9.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "PROJ831_IDU",
+                    "heures_TD": 20.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Dans la continuité de l'APP Analyse et visualisation de données",
+                    "code": "PROJ731_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "PROJ832_IDU",
+                    "heures_TD": 16.0,
+                    "heures_TP": 0,
+                    "heures_CM": 4.0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE804",
+            "nom": "Informatique et ECO-Conception",
+            "liste_modules": [
+                {
+                    "nom": "Qualité de la donnée et du logiciel",
+                    "code": "INFO832_IDU",
+                    "heures_TD": 12.0,
+                    "heures_TP": 4.0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 12.0
+                },
+                {
+                    "nom": "Systèmes distribués à large échelle",
+                    "code": "INFO833_IDU",
+                    "heures_TD": 13.5,
+                    "heures_TP": 15.0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Bases de données distribuées",
+                    "code": "INFO834_IDU",
+                    "heures_TD": 6.0,
+                    "heures_TP": 28.0,
+                    "heures_CM": 6.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Dimensions métiers",
+                    "code": "ISOC831_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 30.0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE901",
+            "nom": "Passerelle vers le milieu professionnel, PRD",
+            "liste_modules": [
+                {
+                    "nom": "Projet Recherche et Développement",
+                    "code": "PROJ901_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 15.0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG901_PACY",
+                    "heures_TD": 40.5,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "LANG902_PACY",
+                    "heures_TD": 15.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Advanced English S9",
+                    "code": "ENGL902_PACY",
+                    "heures_TD": 21.0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Stage facultatif S9",
+                    "code": "PROJ900_PACY",
+                    "heures_TD": 0,
+                    "heures_TP": 0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE902",
+            "nom": "Optimisation et HPC",
+            "liste_modules": [
+                {
+                    "nom": "",
+                    "code": "INFO931_IDU",
+                    "heures_TD": 12.0,
+                    "heures_TP": 16.0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "",
+                    "code": "INFO932_IDU",
+                    "heures_TD": 7.5,
+                    "heures_TP": 24.0,
+                    "heures_CM": 7.5,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Projet Usages",
+                    "code": "PROJ931_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 40.0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE903",
+            "nom": "Données et Aide la décision",
+            "liste_modules": [
+                {
+                    "nom": "Machine Learning",
+                    "code": "DATA931_IDU",
+                    "heures_TD": 12.0,
+                    "heures_TP": 16.0,
+                    "heures_CM": 12.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "Innovation et recherche",
+                    "code": "ISOC931_IDU",
+                    "heures_TD": 12.0,
+                    "heures_TP": 20.0,
+                    "heures_CM": 6.0,
+                    "heures_PTUT": 0
+                },
+                {
+                    "nom": "APP Projet Data Science",
+                    "code": "PROJ932_IDU",
+                    "heures_TD": 0,
+                    "heures_TP": 40.0,
+                    "heures_CM": 0,
+                    "heures_PTUT": 0
+                }
+            ]
+        },
+        {
+            "code": "UE001",
+            "nom": "Stage Ingénieur",
+            "liste_modules": []
+        }
+    ],
+    "liste_competences": [
+        {
+            "apprentissages_crit": {
+                "3A": {
+                    "nom": "​Pour une application simple 3-tiers intégrant une base de données",
+                    "app_list": [
+                        {
+                            "code": "AC 1.1",
+                            "nom": "Concevoir, gérer et utiliser une base de données",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE502": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE503": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 1.2",
+                            "nom": "Concevoir et implémenter une application orientée objet de petite taille (<10classes) ",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE602": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 1.5",
+                            "nom": "Concevoir et implémenter une application web de rendu de données / intégrant une BD",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE603": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 1.6",
+                            "nom": "Évaluer la consommation énergétique d’un programme",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE602": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4A": {
+                    "nom": "​Pour une application N-tiers intégrant une base de données et programmée en langage objet",
+                    "app_list": [
+                        {
+                            "code": "AC 1.8",
+                            "nom": "Spécifier et concevoir un logiciel",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE703": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 1.9",
+                            "nom": "Mettre en œuvre un processus qualité et d’intégration continue dans le développement logiciel",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE804": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 1.10",
+                            "nom": "Choisir une méthode de développement adaptée",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE704": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5A": {
+                    "nom": "​Pour une application traitant des données du BigData",
+                    "app_list": [
+                        {
+                            "code": "AC 1.14",
+                            "nom": "Concevoir des applications et architectures multitâches et distribuées ",
+                            "UE_liees": {
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE804": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "RNCP": [
+                "RNCP35994BC01"
+            ],
+            "nom_competence": "Concevoir et mettre en œuvre des systèmes informatiques",
+            "situations_pro": [
+                "Ingénieur DevOps, ",
+                "Architecte big data, ",
+                "Architecte SI, ",
+                "Ingénieur d’études / Recherche et Développement"
+            ],
+            "composantes_essentielles": []
+        },
+        {
+            "apprentissages_crit": {
+                "3A": {
+                    "nom": "​Pour des données simples, en petites quantités (<1000 tuples, <20 caractéristiques, traitables en temps réel sur un PC de type bureautique)",
+                    "app_list": [
+                        {
+                            "code": "AC 2.1",
+                            "nom": "Acquérir des données provenant d’Internet",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE603": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.2",
+                            "nom": "Récupérer des données provenant d’un dépôt de données structurées",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE502": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE603": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.3",
+                            "nom": "Organiser des données selon des structures de graphe",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE503": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE602": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.4",
+                            "nom": "Implémenter des outils mathématiques",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE502": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE503": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE602": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.6",
+                            "nom": "Réaliser des rendus visuels",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE603": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4A": {
+                    "nom": "​Pour de grandes quantités de données nécessitant une ou plusieurs stations de calculs intensifs",
+                    "app_list": [
+                        {
+                            "code": "AC 2.7",
+                            "nom": "Évaluer la qualité de la donnée",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE804": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.9",
+                            "nom": "Déployer des traitements distribués",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE702": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE703": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.11",
+                            "nom": "Développer des rendus visuels divers, en vue d’une aide à la décision",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE704": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE803": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.12",
+                            "nom": "Concevoir et mettre en œuvre une base de données NoSQL",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE804": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5A": {
+                    "nom": "​Pour des données nécessitant des techniques de Big Data (en volume, vélocité ou variété)",
+                    "app_list": [
+                        {
+                            "code": "AC 2.13",
+                            "nom": "Mettre en œuvre des traitements big data (cloud, batch, flux..) ",
+                            "UE_liees": {
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE803": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE902": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.14",
+                            "nom": "Développer des traitements distribués",
+                            "UE_liees": {
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE804": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE902": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.15",
+                            "nom": "Développer des rendus visuels divers, en vue d’une aide à la décision multi-critères ",
+                            "UE_liees": {
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE902": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.16",
+                            "nom": "Intégrer des solutions issues de la recherche ",
+                            "UE_liees": {
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE903": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 2.17",
+                            "nom": "Caractériser et choisir une représentation de données et les traitements adaptés dans un contexte de big data",
+                            "UE_liees": {
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE804": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "RNCP": [
+                "RNCP35994BC02"
+            ],
+            "nom_competence": "Collecter et traiter des données numériques",
+            "composantes_essentielles": [
+                {
+                    "code": "CE 2.5",
+                    "nom": "En respectant les réglementations légales ",
+                    "UE_liees": {
+                        "UE501": {
+                            "type_liaison": "fournie"
+                        },
+                        "UE601": {
+                            "type_liaison": "fournie"
+                        },
+                        "UE701": {
+                            "type_liaison": "fournie"
+                        },
+                        "UE801": {
+                            "type_liaison": "fournie"
+                        },
+                        "UE802": {
+                            "type_liaison": "variant"
+                        },
+                        "UE901": {
+                            "type_liaison": "variant"
+                        },
+                        "UE001": {
+                            "type_liaison": "variant"
+                        }
+                    }
+                }
+            ],
+            "situations_pro": [
+                "DATA Engineer, ",
+                "DATA Analyst, ",
+                "Data scientist"
+            ]
+        },
+        {
+            "apprentissages_crit": {
+                "3A": {
+                    "nom": "​Appréhender les enjeux sociétaux de la donnée",
+                    "app_list": [
+                        {
+                            "code": "AC 3.2",
+                            "nom": "Construire des API de Plateformes numériques",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE603": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4A": {
+                    "nom": "​Intégrer le caractère socio-économique de la donnée",
+                    "app_list": []
+                },
+                "5A": {
+                    "nom": "​Protéger la donnée et les systèmes informatiques",
+                    "app_list": [
+                        {
+                            "code": "AC 3.14",
+                            "nom": "Identifier les risques de sécurité informatique sur les systèmes et les données (fuite de données)",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE702": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 3.15",
+                            "nom": "Mettre en place les éléments de sécurité et de cryptographie ",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE702": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "RNCP": [
+                "RNCP35994BC03"
+            ],
+            "nom_competence": "Gérer les usages des données numériques en lien avec le client",
+            "composantes_essentielles": [],
+            "situations_pro": [
+                "Développeur Front, ",
+                "Entreprenariat, ",
+                "Ingénieur sécurité, ",
+                "Data Architect"
+            ]
+        },
+        {
+            "apprentissages_crit": {
+                "3A": {
+                    "nom": "​Dans un cas simple, à partir d'un cahier des charges donné​",
+                    "app_list": [
+                        {
+                            "code": "AC 4.1",
+                            "nom": "Définir un projet, ses objectifs, ses acteurs et les outils de gestion de projet",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE503": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.2",
+                            "nom": "Mettre en œuvre une méthode de gestion de projet informatique et des outils collaboratifs associés",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE503": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.4",
+                            "nom": "Évaluer la rentabilité des projets",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.5",
+                            "nom": "Concevoir les bases d'une stratégie d'entreprise",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.6",
+                            "nom": "Comprendre les lois et réglementations qui régissent leur domaine d'expertise",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "4A": {
+                    "nom": "​De façon semi-autonome à partir des besoins, dans un contexte socio-économique et culturel international",
+                    "app_list": [
+                        {
+                            "code": "AC 4.7",
+                            "nom": "Analyser les besoins, identifier les contraintes et élaborer un cahier des charges",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.8",
+                            "nom": "Animer les réunions et organiser le travail pour clarifier les attendus ",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.9",
+                            "nom": "Identifier et évaluer les risques triviaux d'un projet",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE702": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.10",
+                            "nom": "Utiliser les techniques de créativité pour apporter des solutions originales",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.11",
+                            "nom": "Analyser et évaluer les structures et les processus organisationnels",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE702": {
+                                    "type_liaison": "ciblee"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        },
+                        {
+                            "code": "AC 4.12",
+                            "nom": "Communiquer avec différentes cultures",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "5A": {
+                    "nom": "​Dans un contexte autonome de d'amélioration, d'innovation ou de recherche",
+                    "app_list": [
+                        {
+                            "code": "AC 4.13",
+                            "nom": "Utiliser des méthodes de management pour la motivation en projet",
+                            "UE_liees": {
+                                "UE501": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE601": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE701": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE801": {
+                                    "type_liaison": "fournie"
+                                },
+                                "UE802": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE901": {
+                                    "type_liaison": "variant"
+                                },
+                                "UE001": {
+                                    "type_liaison": "variant"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "RNCP": [
+                "RNCP35994BC05"
+            ],
+            "nom_competence": "Gérer un projet informatique",
+            "composantes_essentielles": [],
+            "situations_pro": [
+                "",
+                "Conduite de projet informatique"
+            ]
+        }
+    ]
+}

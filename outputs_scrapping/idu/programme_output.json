@@ -1,0 +1,747 @@
+{
+    "UE501": {
+        "nom": "Passerelle vers le parcours professionnel",
+        "liste_modules": [
+            {
+                "nom": "Anglais S5",
+                "code": "LANG501_PACY",
+                "heures_TD": 40.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Sport",
+                "code": "SHES501_PACY",
+                "heures_TD": 21.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Simulation de gestion d'entreprise",
+                "code": "SHES505_PACY",
+                "heures_TD": 1.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "ADCO501_PACY",
+                "heures_TD": 12.0,
+                "heures_TP": 0,
+                "heures_CM": 3.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Stage facultatif S5",
+                "code": "PROJ500_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "ACCO501_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 64.0
+            }
+        ]
+    },
+    "UE502": {
+        "nom": "Sciences et outils de l'ingénieur",
+        "liste_modules": [
+            {
+                "nom": "Développement Durable",
+                "code": "DDRS501_PACY",
+                "heures_TD": 12.0,
+                "heures_TP": 0,
+                "heures_CM": 15.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "INFO501_PACY",
+                "heures_TD": 6.0,
+                "heures_TP": 12.0,
+                "heures_CM": 3.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "entreprises)",
+                "code": "INFO502_PACY",
+                "heures_TD": 4.5,
+                "heures_TP": 12.0,
+                "heures_CM": 6.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "MATH500_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 15.0
+            },
+            {
+                "nom": "Mathématiques Tronc Commun",
+                "code": "MATH501_PACY",
+                "heures_TD": 37.5,
+                "heures_TP": 0,
+                "heures_CM": 16.5,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE503": {
+        "nom": "Sciences de l'ingénieur IDU1",
+        "liste_modules": [
+            {
+                "nom": "Gestion de projets",
+                "code": "PROJ531_IDU",
+                "heures_TD": 6.0,
+                "heures_TP": 28.0,
+                "heures_CM": 6.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Sociétés numériques",
+                "code": "ISOC531_IDU",
+                "heures_TD": 22.5,
+                "heures_TP": 4.0,
+                "heures_CM": 13.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Graphes et Récursivité",
+                "code": "INFO532_IDU",
+                "heures_TD": 12.0,
+                "heures_TP": 16.0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Programmation C",
+                "code": "INFO503_PACY",
+                "heures_TD": 6.0,
+                "heures_TP": 12.0,
+                "heures_CM": 6.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Langages et Paradigmes",
+                "code": "INFO531_IDU",
+                "heures_TD": 9.0,
+                "heures_TP": 16.0,
+                "heures_CM": 10.5,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE601": {
+        "nom": "Passerelle vers le parcours professionnel",
+        "liste_modules": [
+            {
+                "nom": "Expérience professionnelle",
+                "code": "PROJ601_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Gestion financière",
+                "code": "SHES601_PACY",
+                "heures_TD": 9.0,
+                "heures_TP": 0,
+                "heures_CM": 10.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Initiation au droit",
+                "code": "SHES602_PACY",
+                "heures_TD": 4.5,
+                "heures_TP": 0,
+                "heures_CM": 15.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Enjeux de l'intelligence artificielle",
+                "code": "DATA601_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 6.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "PROJ602_PACY",
+                "heures_TD": 9.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG601_PACY",
+                "heures_TD": 40.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG602_PACY",
+                "heures_TD": 15.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Advanced English S6",
+                "code": "ENGL602_PACY",
+                "heures_TD": 21.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Stage facultatif S6",
+                "code": "PROJ600_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "FISA sont présents)",
+                "code": "ACCO601_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 32.0
+            }
+        ]
+    },
+    "UE602": {
+        "nom": "Mathématiques et algorithmique",
+        "liste_modules": [
+            {
+                "nom": "Logique et Programmation",
+                "code": "INFO631_IDU",
+                "heures_TD": 10.5,
+                "heures_TP": 20.0,
+                "heures_CM": 10.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Projet Algorithmique",
+                "code": "PROJ631_IDU",
+                "heures_TD": 42.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Probabilités et Statistiques",
+                "code": "MATH631_IDU",
+                "heures_TD": 18.0,
+                "heures_TP": 0,
+                "heures_CM": 18.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "INFO634_IDU",
+                "heures_TD": 21.0,
+                "heures_TP": 8.0,
+                "heures_CM": 9.0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE603": {
+        "nom": "Environnement et Applications",
+        "liste_modules": [
+            {
+                "nom": "web",
+                "code": "INFO633_IDU",
+                "heures_TD": 13.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 4.0
+            },
+            {
+                "nom": "",
+                "code": "INFO632_IDU",
+                "heures_TD": 13.5,
+                "heures_TP": 16.0,
+                "heures_CM": 10.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Plateformes collaboratives",
+                "code": "ISOC631_IDU",
+                "heures_TD": 15.0,
+                "heures_TP": 12.0,
+                "heures_CM": 13.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "APP Projet Data Science",
+                "code": "PROJ632_IDU",
+                "heures_TD": 30.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE701": {
+        "nom": "Passerelle vers le parcours professionnel",
+        "liste_modules": [
+            {
+                "nom": "",
+                "code": "SHES703_PACY",
+                "heures_TD": 13.5,
+                "heures_TP": 3.0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "SHES704_PACY",
+                "heures_TD": 25.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG701_PACY",
+                "heures_TD": 40.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG702_PACY",
+                "heures_TD": 15.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Advanced English S7",
+                "code": "ENGL702_PACY",
+                "heures_TD": 21.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Stage facultatif S7",
+                "code": "PROJ700_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "les FISA sont présents)",
+                "code": "ACCO701_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 16.0
+            }
+        ]
+    },
+    "UE702": {
+        "nom": "Mathématiques et Données",
+        "liste_modules": [
+            {
+                "nom": "Modélisation stochastique",
+                "code": "DATA731_IDU",
+                "heures_TD": 0,
+                "heures_TP": 24.0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Sécurité et Cryptographie",
+                "code": "INFO731_IDU",
+                "heures_TD": 22.5,
+                "heures_TP": 4.0,
+                "heures_CM": 13.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Tests statistiques",
+                "code": "MATH741_IDU",
+                "heures_TD": 18.0,
+                "heures_TP": 0,
+                "heures_CM": 18.0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE703": {
+        "nom": "Informatique et Conception",
+        "liste_modules": [
+            {
+                "nom": "",
+                "code": "INFO732_IDU",
+                "heures_TD": 6.0,
+                "heures_TP": 24.0,
+                "heures_CM": 7.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "PROJ731_IDU",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Ce projet est dans la continuité du Projet Data Science",
+                "code": "PROJ632_IDU",
+                "heures_TD": 0,
+                "heures_TP": 20.0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Analyse et visualisation de données",
+                "code": "DATA732_IDU",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Mise en application des connaissances acquises en Analyse et visualisation de données",
+                "code": "DATA732_IDU",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Réseaux et systèmes répartis",
+                "code": "INFO733_IDU",
+                "heures_TD": 16.0,
+                "heures_TP": 4.0,
+                "heures_CM": 18.0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE704": {
+        "nom": "Visualisation et Gouvernance",
+        "liste_modules": [
+            {
+                "nom": "Analyse et visualisation de données",
+                "code": "DATA732_IDU",
+                "heures_TD": 23.5,
+                "heures_TP": 0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Développement Full Stack",
+                "code": "INFO734_IDU",
+                "heures_TD": 24.0,
+                "heures_TP": 0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "ISOC731_IDU",
+                "heures_TD": 21.0,
+                "heures_TP": 4.0,
+                "heures_CM": 15.0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE801": {
+        "nom": "Passerelle vers le parcours professionnel",
+        "liste_modules": [
+            {
+                "nom": "Sécurité Environnement)",
+                "code": "SHES802_PACY",
+                "heures_TD": 10.5,
+                "heures_TP": 0,
+                "heures_CM": 9.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Techniques de management",
+                "code": "SHES803_PACY",
+                "heures_TD": 7.5,
+                "heures_TP": 0,
+                "heures_CM": 18.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG801_PACY",
+                "heures_TD": 40.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG802_PACY",
+                "heures_TD": 15.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Advanced English S8",
+                "code": "ENGL802_PACY",
+                "heures_TD": 21.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Stage facultatif S8",
+                "code": "PROJ800_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "les FISA sont présents",
+                "code": "ACCO801_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 16.0
+            }
+        ]
+    },
+    "UE802": {
+        "nom": "Stage",
+        "liste_modules": [
+            {
+                "nom": "Stage assistant ingénieur S8",
+                "code": "PROJ801_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE803": {
+        "nom": "Données et aide à la décision",
+        "liste_modules": [
+            {
+                "nom": "Big Data",
+                "code": "DATA831_IDU",
+                "heures_TD": 0,
+                "heures_TP": 12.0,
+                "heures_CM": 7.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Machine Learning",
+                "code": "DATA832_IDU",
+                "heures_TD": 9.0,
+                "heures_TP": 12.0,
+                "heures_CM": 9.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Informatique décisionnelle",
+                "code": "INFO831_IDU",
+                "heures_TD": 9.0,
+                "heures_TP": 12.0,
+                "heures_CM": 9.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "PROJ831_IDU",
+                "heures_TD": 20.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Dans la continuité de l'APP Analyse et visualisation de données",
+                "code": "PROJ731_IDU",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "PROJ832_IDU",
+                "heures_TD": 16.0,
+                "heures_TP": 0,
+                "heures_CM": 4.0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE804": {
+        "nom": "Informatique et ECO-Conception",
+        "liste_modules": [
+            {
+                "nom": "Qualité de la donnée et du logiciel",
+                "code": "INFO832_IDU",
+                "heures_TD": 12.0,
+                "heures_TP": 4.0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 12.0
+            },
+            {
+                "nom": "Systèmes distribués à large échelle",
+                "code": "INFO833_IDU",
+                "heures_TD": 13.5,
+                "heures_TP": 15.0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Bases de données distribuées",
+                "code": "INFO834_IDU",
+                "heures_TD": 6.0,
+                "heures_TP": 28.0,
+                "heures_CM": 6.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Dimensions métiers",
+                "code": "ISOC831_IDU",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 30.0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE901": {
+        "nom": "Passerelle vers le parcours professionnel",
+        "liste_modules": [
+            {
+                "nom": "Projet Recherche et Développement",
+                "code": "PROJ901_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 15.0
+            },
+            {
+                "nom": "",
+                "code": "LANG901_PACY",
+                "heures_TD": 40.5,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "LANG902_PACY",
+                "heures_TD": 15.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Advanced English S9",
+                "code": "ENGL902_PACY",
+                "heures_TD": 21.0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Stage facultatif S9",
+                "code": "PROJ900_PACY",
+                "heures_TD": 0,
+                "heures_TP": 0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE902": {
+        "nom": "Optimisation et HPC",
+        "liste_modules": [
+            {
+                "nom": "",
+                "code": "INFO931_IDU",
+                "heures_TD": 12.0,
+                "heures_TP": 16.0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "",
+                "code": "INFO932_IDU",
+                "heures_TD": 7.5,
+                "heures_TP": 24.0,
+                "heures_CM": 7.5,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Projet Usages",
+                "code": "PROJ931_IDU",
+                "heures_TD": 0,
+                "heures_TP": 40.0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE903": {
+        "nom": "Données et Aide la décision",
+        "liste_modules": [
+            {
+                "nom": "Machine Learning",
+                "code": "DATA931_IDU",
+                "heures_TD": 12.0,
+                "heures_TP": 16.0,
+                "heures_CM": 12.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "Innovation et recherche",
+                "code": "ISOC931_IDU",
+                "heures_TD": 12.0,
+                "heures_TP": 20.0,
+                "heures_CM": 6.0,
+                "heures_PTUT": 0
+            },
+            {
+                "nom": "APP Projet Data Science",
+                "code": "PROJ932_IDU",
+                "heures_TD": 0,
+                "heures_TP": 40.0,
+                "heures_CM": 0,
+                "heures_PTUT": 0
+            }
+        ]
+    },
+    "UE001": {
+        "nom": "Stage Ingénieur",
+        "liste_modules": []
+    }
+}

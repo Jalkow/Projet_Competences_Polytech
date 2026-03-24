@@ -1,6 +1,7 @@
 from pptx import Presentation
 import re
 import json
+import os
 
 def cleanup_string(strig_to_cleanup):
     return re.sub(r"[^A-Za-z0-9!,./<>()'’àÀèÈéÉâÂêÊîÎôÔûÛœ\n -]+", "", strig_to_cleanup)
@@ -11,7 +12,7 @@ def delete_newline(string):
 
 TOLERANCE_ALIGNEMENT_HORIZONTAL = 200000 # En EMU (21 en pixels)
 
-def extract_infos_competences(powerpoint_path):
+def extract_infos_competences(powerpoint_path, output_folder_path):
     pres = Presentation(powerpoint_path)
 
     dict_infos = {}
@@ -76,13 +77,11 @@ def extract_infos_competences(powerpoint_path):
                     dict_infos[f"Comp{slide_number}"]["apprentissages_crit"][niveau]["app_list"] = cleanup_string(re.sub(r"AC[0-9]+.[0-9]+", "", shape.text)).splitlines()
                     break
     
+    # création du fichier json avec les données scrappées
+    output_file_path = os.path.join(output_folder_path, "referentiel_output.json")
+    with open(output_file_path, "w", encoding="utf-8") as f:
+        json.dump(dict_infos, f, ensure_ascii=False, indent=4)
+
     return dict_infos
-
-    # sauvegarder sous json
-    # with open(f"{nom_powerpoint_referentiel}_output.json", "w", encoding="utf-8") as f:
-    #     json.dump(dict_infos, f, ensure_ascii=False, indent=4)
-
-
-# extract_infos_competences("20251208_Referentiel_IDU.pptx")
 
 

@@ -1,0 +1,203 @@
+{
+    "Comp1": {
+        "apprentissages_crit": {
+            "3A": {
+                "nom": "​Pour une application simple 3-tiers intégrant une base de données",
+                "app_list": [
+                    " Concevoir, gérer et utiliser une base de données",
+                    " Concevoir et implémenter une application orientée objet de petite taille (<10classes) ",
+                    " Résoudreun problème en implémentant un algorithme dans un programme informatique procédural ou objet ",
+                    " Mettre en œuvre une architecture client-serveur 3-tiers ",
+                    " Concevoir et implémenter une application web de rendu de données / intégrant une BD",
+                    " Évaluer la consommation énergétique d’un programme"
+                ]
+            },
+            "4A": {
+                "nom": "​Pour une application N-tiers intégrant une base de données et programmée en langage objet",
+                "app_list": [
+                    " Définir les caractéristiques techniques et fonctionnelles d'un système",
+                    " Spécifier et concevoir un logiciel ",
+                    " Mettre en œuvre un processus qualité et d’intégration continue dans le développement logiciel",
+                    " Choisir une méthode de développement adaptée"
+                ]
+            },
+            "5A": {
+                "nom": "​Pour une application traitant des données du BigData",
+                "app_list": [
+                    " Définir et mettre en œuvre une architecture de système logiciel de données massives",
+                    " Caractériser et choisir les solutions logicielles et systèmes adaptés aux besoins",
+                    " S'assurer de la sûreté, la fiabilité et la sécurité du système, du traitementet des données",
+                    " Concevoir des applications et architectures multitâches et distribuées",
+                    " Évaluer et optimiser les performances opérationnelles et énergétiques d'un système logiciel"
+                ]
+            }
+        },
+        "RNCP": [
+            "RNCP35994BC01"
+        ],
+        "nom_competence": "Concevoir et mettre en œuvre des systèmes informatiques",
+        "situations_pro": [
+            "Ingénieur DevOps, ",
+            "Architecte big data, ",
+            "Architecte SI, ",
+            "Ingénieur d’études / Recherche et Développement"
+        ],
+        "composantes_essentielles": [
+            "En adaptant la solution aux besoins de l’utilisateur",
+            "En utilisant des méthodes et outils assurant la qualité du système (développement logiciel,gestion de projet informatique, standards qualité, sûreté, sécurité, amélioration continue)",
+            "Enadoptant une approche systémique (aspects matériels et logiciels)",
+            "En communiquant de manière adaptée avec des concepteurs, développeurs et utilisateurs (écrit, oral)",
+            "En prenant en compte l’impact environnemental"
+        ]
+    },
+    "Comp2": {
+        "apprentissages_crit": {
+            "3A": {
+                "nom": "​Pour des données simples, en petites quantités (<1000 tuples, <20 caractéristiques, traitables en temps réel sur un PC de type bureautique)",
+                "app_list": [
+                    " Acquérir des données provenant d’Internet ",
+                    " Récupérer des données provenant d’un dépôt de données structurées ",
+                    " Organiser des données selon des structures de graphe ",
+                    " Implémenter des outils mathématiques",
+                    " Déployer les bases algorithmiques de la logique du 1e ordre et des réseaux de neurones",
+                    " Réaliser des rendus visuels"
+                ]
+            },
+            "4A": {
+                "nom": "​Pour de grandes quantités de données nécessitant une ou plusieurs stations de calculs intensifs",
+                "app_list": [
+                    " Évaluer la qualité de la donnée ",
+                    " Répartir les fonctionnalités (acquisition, stockage, traitements, visualisation...) sur un système N-Tiers",
+                    " Déployer des traitements distribués",
+                    " Choisir et mettre en œuvre des outils d’IA (approches stochastiques, Deep Learning) pour l’analyse et la prédiction de données ",
+                    " Développer des rendus visuels divers, en vue d’une aide à la décision ",
+                    " Concevoir et mettre en œuvre une base de données NoSQL"
+                ]
+            },
+            "5A": {
+                "nom": "​Pour des données nécessitant des techniques de Big Data (en volume, vélocité ou variété)",
+                "app_list": [
+                    " Mettre en œuvre des traitements big data (cloud, batch, flux..)",
+                    " Développer des traitements distribués ",
+                    " Développer des rendus visuels divers, en vue d’une aide à la décision multi-critères ",
+                    " Intégrer des solutions issues de la recherche ",
+                    " Caractériser et choisir une représentation de données et les traitements adaptés dans un contexte de big data"
+                ]
+            }
+        },
+        "RNCP": [
+            "RNCP35994BC02"
+        ],
+        "nom_competence": "Collecter et traiter des données numériques",
+        "composantes_essentielles": [
+            "En utilisant des outils d’acquisition adaptés à la source de données (scrapping, api web ou dépôts de données structurées ou non)",
+            "En déployant des processus adaptés (mesure de la qualité, analyses statistiques, IA, rendus visuels...)",
+            "En déployant des analyses et visuels dans un but décisionnel ",
+            "En choisissant et gérant un stockage adéquat aux caractéristiques de la donnée",
+            "En respectant les réglementations légales "
+        ],
+        "situations_pro": [
+            "DATA Engineer, ",
+            "DATA Analyst, ",
+            "Data scientist"
+        ]
+    },
+    "Comp3": {
+        "apprentissages_crit": {
+            "3A": {
+                "nom": "​Appréhender les enjeux sociétaux de la donnée",
+                "app_list": [
+                    " Lier des problématiques techniques aux problématiques sociétales",
+                    " Construire des API de Plateformes numériques",
+                    " Prendre en compte l’importance stratégique de la donnée",
+                    " Mesurer les impacts sociétaux liés à la production et à la consommation de données",
+                    " Intégrer à la démarche d’ingénierie la dimension éthique et le développement durable"
+                ]
+            },
+            "4A": {
+                "nom": "​Intégrer le caractère socio-économique de la donnée",
+                "app_list": [
+                    " Intégrer le cadre légal et réglementaire du traitement de données ",
+                    " Analyser et maîtriser les exigences du RGPD et du droit de la propriété",
+                    " Intégrer la dimension économie de la donnée(valeur de la donnée, utilisation par les entreprises du numérique, mise en place de business plan)"
+                ]
+            },
+            "5A": {
+                "nom": "​Protéger la donnée et les systèmes informatiques",
+                "app_list": [
+                    " Identifier les risques de sécurité informatique sur les systèmes et les données (fuite de données) ",
+                    " Mettre en place les éléments de sécurité et de cryptographie",
+                    " Intégrer l’intermédiation dans la conception des systèmes numériques",
+                    " Comprendre les effets réseaux dans le développement de plateformes numériques",
+                    " Expliquer les flux, stockage, sécurisation des données au sein des entreprises"
+                ]
+            }
+        },
+        "RNCP": [
+            "RNCP35994BC03"
+        ],
+        "nom_competence": "Gérer les usages des données numériques en lien avec le client",
+        "composantes_essentielles": [
+            "En respectant les réglementations en vigueur (RGPD, licences, ...)",
+            "En communiquant de manière professionnelle (écrit, oral)",
+            "En prenant en compte les besoins",
+            "En tenant compte des dimensions éthique, économiques, sociétale, environnementales et stratégiques de la donnée"
+        ],
+        "situations_pro": [
+            "Développeur Front, ",
+            "Entreprenariat, ",
+            "Ingénieur sécurité, ",
+            "Data Architect"
+        ]
+    },
+    "Comp4": {
+        "apprentissages_crit": {
+            "3A": {
+                "nom": "​Dans un cas simple, à partir d'un cahier des charges donné​",
+                "app_list": [
+                    " Définir un projet, ses objectifs, ses acteurs et les outils de gestion de projet",
+                    " Mettre en œuvre une méthode de gestion de projet informatique et des outils collaboratifs associés",
+                    " Mettre en œuvre des outils de planification et de suivi de projet",
+                    " Évaluer la rentabilité des projets",
+                    " Concevoir les bases d'une stratégie d'entreprise",
+                    " Comprendre les lois et réglementations qui régissent leur domaine d'expertise"
+                ]
+            },
+            "4A": {
+                "nom": "​De façon semi-autonome à partir des besoins, dans un contexte socio-économique et culturel international",
+                "app_list": [
+                    " Analyser les besoins, identifier les contraintes et élaborer un cahier des charges ",
+                    " Animer les réunions et organiser le travail pour clarifier les attendus",
+                    " Identifier et évaluer les risques triviaux d'un projet",
+                    " Utiliser les techniques de créativité pour apporter des solutions originales",
+                    " Analyser et évaluer les structures et les processus organisationnels",
+                    " Communiquer avec différentes cultures"
+                ]
+            },
+            "5A": {
+                "nom": "​Dans un contexte autonome de d'amélioration, d'innovation ou de recherche",
+                "app_list": [
+                    " Utiliser des méthodes de management pour la motivation en projet",
+                    " Manager des équipes projet (gestion des organisations, résistance au changement)",
+                    " Évaluer l'impact du projet en interne et en externe (responsabilité sociétale et environnementale, stratégie de l'entreprise)"
+                ]
+            }
+        },
+        "RNCP": [
+            "RNCP35994BC05"
+        ],
+        "nom_competence": "Gérer un projet informatique",
+        "composantes_essentielles": [
+            "En exerant un management opérationnel et stratégique",
+            "En coopérant avec des acteurs de professions et cultures différentes",
+            "En développant l'initiative, l'autonomie et l'esprit d'entreprenariat",
+            "En prenant en compte la dimension développement durable et RSE",
+            "En intégrant l’état de l’art des connaissances et des pratiques",
+            "En utilisant des méthodes et outils de gestion et de suivi du projet"
+        ],
+        "situations_pro": [
+            "",
+            "Conduite de projet informatique"
+        ]
+    }
+}

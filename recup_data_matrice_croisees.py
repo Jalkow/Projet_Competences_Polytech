@@ -1,5 +1,7 @@
 from openpyxl import load_workbook
 import re
+import os
+import json
 
 def get_color(cell_color, wb):
     """
@@ -54,7 +56,7 @@ def get_liaison_type(cell):
 
     return None
 
-def extract_infos_matrices(matrice_file_path):
+def extract_infos_matrices(matrice_file_path, output_folder_path):
 
     excel_workbook = load_workbook(matrice_file_path)
 
@@ -137,5 +139,10 @@ def extract_infos_matrices(matrice_file_path):
         
 
         is_first_sheet = False
+
+    # création du fichier json avec les données scrappées
+    output_file_path = os.path.join(output_folder_path, "matrice_output.json")
+    with open(output_file_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
 
     return result

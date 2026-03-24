@@ -1,9 +1,11 @@
 import pdfplumber
 import re
 import json
+import os
 
-def extract_infos_programme(path_to_programme, formation_mode):
+def extract_infos_programme(path_to_programme, formation_mode, output_folder_path):
     modules_by_UE = {}
+
     current_UE = None
     previous_UE = None
     first_module_after_ue_change = False
@@ -86,7 +88,6 @@ def extract_infos_programme(path_to_programme, formation_mode):
                             modules_by_UE[current_UE]["liste_modules"].append(current_module)
 
                         nom_module, code_module = module_regex_matches.groups()
-                        print(line)
 
 
                         current_module = {
@@ -106,7 +107,10 @@ def extract_infos_programme(path_to_programme, formation_mode):
                         heures_clean = heures.replace(",", ".").replace("h", "")
                         current_module["heures_"+type_h] = float(heures_clean)
 
-    
-    with open(f"test_output_programme.json", "w", encoding="utf-8") as f:
+    # création du fichier json avec les données scrappées
+    output_file_path = os.path.join(output_folder_path, "programme_output.json")
+    with open(output_file_path, "w", encoding="utf-8") as f:
         json.dump(modules_by_UE, f, ensure_ascii=False, indent=4)
+    
+    return modules_by_UE
 

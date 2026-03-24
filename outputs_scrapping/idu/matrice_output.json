@@ -1,0 +1,2439 @@
+{
+    "liste_UE": [
+        {
+            "code": "UE501",
+            "nom": "Passerelle vers le parcours professionnel"
+        },
+        {
+            "code": "UE502",
+            "nom": "Sciences et Outils de l'Ingénieur"
+        },
+        {
+            "code": "UE503",
+            "nom": "Sciences de l'ingénieur IDU1"
+        },
+        {
+            "code": "UE601",
+            "nom": "Passerelle vers le parcours professionnel"
+        },
+        {
+            "code": "UE602",
+            "nom": "Mathématiques et algorithmique"
+        },
+        {
+            "code": "UE603",
+            "nom": "Environnement et Applications"
+        },
+        {
+            "code": "UE701",
+            "nom": "Passerelle vers le parcours professionnel"
+        },
+        {
+            "code": "UE702",
+            "nom": "Mathématiques et Données"
+        },
+        {
+            "code": "UE703",
+            "nom": "Informatique et Conception"
+        },
+        {
+            "code": "UE704",
+            "nom": "Visualisation et Gouvernance"
+        },
+        {
+            "code": "UE801",
+            "nom": "Passerelle vers le parcours professionnel"
+        },
+        {
+            "code": "UE802",
+            "nom": "Stage"
+        },
+        {
+            "code": "UE803",
+            "nom": "Données et aide à la décision"
+        },
+        {
+            "code": "UE804",
+            "nom": "Informatique et ECO-Conception"
+        },
+        {
+            "code": "UE901",
+            "nom": "Passerelle vers le milieu professionnel, PRD"
+        },
+        {
+            "code": "UE902",
+            "nom": "Optimisation et HPC"
+        },
+        {
+            "code": "UE903",
+            "nom": "Données et Aide la décision"
+        },
+        {
+            "code": "UE001",
+            "nom": "Stage Ingénieur"
+        }
+    ],
+    "liens": [
+        {
+            "code": "CE 1.1",
+            "nom": "En adaptant la solution aux besoins de l’utilisateur​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 1.2",
+            "nom": "En utilisant des méthodes et outils assurant la qualité du système (développement logiciel, gestion de projet informatique, standards qualité, sûreté, sécurité, amélioration continue)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 1.3",
+            "nom": "En adoptant une approche systémique (aspects matériels et logiciels)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 1.4",
+            "nom": "En communiquant de manière adaptée avec des concepteurs, développeurs et utilisateurs (écrit, oral)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 1.5",
+            "nom": "En prenant en compte l’impact environnemental​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.1",
+            "nom": "Concevoir, gérer et utiliser une base de données",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.2",
+            "nom": "Concevoir et implémenter une application orientée objet de petite taille (<10classes) ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE602": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.3",
+            "nom": "Résoudre un problème en implémentant un algorithme dans un programme informatique procédural ou objet",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE602": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.4",
+            "nom": "Mettre en œuvre une architecture client-serveur 3-tiers (INFO632 OS+Virtu)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.5",
+            "nom": "Concevoir et implémenter une application web de rendu de données / intégrant une BD",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.6",
+            "nom": "Évaluer la consommation énergétique d’un programme",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE602": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.7",
+            "nom": "Définir les caractéristiques techniques et fonctionnelles d'un système N-tiers",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.8",
+            "nom": "Spécifier et concevoir un logiciel",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE703": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.9",
+            "nom": "Mettre en œuvre un processus qualité et d’intégration continue dans le développement logiciel",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.10",
+            "nom": "Choisir une méthode de développement adaptée",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.11",
+            "nom": "Définir et mettre en œuvre une architecture de système logiciel de donnée massives",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE803": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.12",
+            "nom": "Caractériser et choisir les solutions logicielles et systèmes adaptées aux besoins​",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE902": {
+                    "type_liaison": "ciblee"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.13",
+            "nom": "S'assurer de la sûreté, la fiabilité et la sécurité du système, du traitement et des données ",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.14",
+            "nom": "Concevoir des applications et architectures multitâches et distribuées ",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 1.15",
+            "nom": "Évaluer et optimiser les performances opérationnelles et énergétiques d'un système logiciel​",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 2.1",
+            "nom": "En utilisant des outils d’acquisition adaptés à la source de données (scraping, des api web ou des dépôts de données structurées ou non)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 2.2",
+            "nom": "En déployant des processus adaptés (mesure de la qualité, analyses statistiques, IA, rendus visuels...)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 2.3",
+            "nom": "En déployant des analyses et visuels dans un but décisionnel ​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 2.4",
+            "nom": "En choisissant et gérant un stockage adéquat aux caractéristiques de la donnée​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 2.5",
+            "nom": "En respectant les réglementations légales ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.1",
+            "nom": "Acquérir des données provenant d’Internet",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.2",
+            "nom": "Récupérer des données provenant d’un dépôt de données structurées",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.3",
+            "nom": "Organiser des données selon des structures de graphe",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE602": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.4",
+            "nom": "Implémenter des outils mathématiques",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE602": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.5",
+            "nom": "Déployer les bases algorithmiques de la logique du 1er ordre et des réseaux de neurones",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE602": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.6",
+            "nom": "Réaliser des rendus visuels",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.7",
+            "nom": "Évaluer la qualité de la donnée",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.8",
+            "nom": "Répartir les fonctionnalités (acquisition, stockage, traitements, visualisation...) sur un système N-Tieris",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.9",
+            "nom": "Déployer des traitements distribués",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE703": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.10",
+            "nom": "Choisir et mettre en œuvre des outils d’IA (approches stochastiques, deep learning) pour l’analyse et la prédiction de données",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE803": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE903": {
+                    "type_liaison": "ciblee"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.11",
+            "nom": "Développer des rendus visuels divers, en vue d’une aide à la décision",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE803": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.12",
+            "nom": "Concevoir et mettre en œuvre une base de données NoSQL",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.13",
+            "nom": "Mettre en œuvre des traitements big data (cloud, batch, flux..) ",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE803": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE902": {
+                    "type_liaison": "ciblee"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.14",
+            "nom": "Développer des traitements distribués",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE902": {
+                    "type_liaison": "ciblee"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.15",
+            "nom": "Développer des rendus visuels divers, en vue d’une aide à la décision multi-critères ",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE902": {
+                    "type_liaison": "ciblee"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.16",
+            "nom": "Intégrer des solutions issues de la recherche ",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE903": {
+                    "type_liaison": "ciblee"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 2.17",
+            "nom": "Caractériser et choisir une représentation de données et les traitements adaptés dans un contexte de big data",
+            "UE_liees": {
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 3.1",
+            "nom": "En respectant les réglementations en vigueur (RGPD, licences, ...)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 3.2",
+            "nom": "En communiquant de manière professionnelle (écrit, oral)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 3.3",
+            "nom": "En prenant en compte les besoins​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 3.4",
+            "nom": "En tenant compte de la dimension éthique et du développement durable​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 3.5",
+            "nom": "En intégrant la dimension économique de la donnée",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.1",
+            "nom": "Définir, analyser et interpréter les problématiques techniques liées problématique sociétales",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.2",
+            "nom": "Construire des API de Plateformes numériques",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.3",
+            "nom": "Concevoir des plateforme numérique centrée sur la donnée s’appuyant sur les effets réseaux",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.4",
+            "nom": "Mesurer les impacts sociétaux liés à la production et à la consommation de données​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.5",
+            "nom": "Rédiger des référentiels de conception",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.5",
+            "nom": "Concevoir et réaliser des applications et des systèmes informatiques",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.7",
+            "nom": "Concevoir et développer des application de traitement de données",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.8",
+            "nom": "Assurer le suivi et adapter des systèmes informatiques",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.9",
+            "nom": "Rédiger un rapport impact socio-techniques sur les utilisateur ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.9",
+            "nom": "Rédiger un business plan ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE704": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.14",
+            "nom": "Identifier les risques de sécurité informatique sur les systèmes et les données (fuite de données)",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.15",
+            "nom": "Mettre en place les éléments de sécurité et de cryptographie ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.16",
+            "nom": "Mettre en place des mécanisme d’intermédiation",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.17",
+            "nom": "Évaluer les effets réseaux dans le développement des plateforme numérique",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE603": {
+                    "type_liaison": "ciblee"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 3.18",
+            "nom": "Cartographier les flux, stockage, sécurisation de la données au sein des entreprises",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 4.1",
+            "nom": "En exerçant un management opérationnel et stratégique​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 4.2",
+            "nom": "En coopérant avec des acteurs de professions et cultures différentes​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 4.3",
+            "nom": "En développant l'initiative, l'autonomie et l'esprit d'entreprenariat​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 4.4",
+            "nom": "En prenant en compte la dimension développement durable et RSE​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE502": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 4.5",
+            "nom": "En intégrant l’état de l’art des connaissances et des pratiques​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "CE 4.6",
+            "nom": "En utilisant des méthodes et outils de gestion et de suivi de projet",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.1",
+            "nom": "Définir un projet, ses objectifs, ses acteurs et les outils de gestion de projet",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.2",
+            "nom": "Mettre en œuvre une méthode de gestion de projet informatique et des outils collaboratifs associés",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.3",
+            "nom": "Mettre en œuvre des outils de planification et de suivi de projet (PROJ531)​",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE503": {
+                    "type_liaison": "ciblee"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.4",
+            "nom": "Évaluer la rentabilité des projets",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.5",
+            "nom": "Concevoir les bases d'une stratégie d'entreprise",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.6",
+            "nom": "Comprendre les lois et réglementations qui régissent leur domaine d'expertise",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.7",
+            "nom": "Analyser les besoins, identifier les contraintes et élaborer un cahier des charges",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.8",
+            "nom": "Animer les réunions et organiser le travail pour clarifier les attendus ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.9",
+            "nom": "Identifier et évaluer les risques triviaux d'un projet",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.10",
+            "nom": "Utiliser les techniques de créativité pour apporter des solutions originales",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.11",
+            "nom": "Analyser et évaluer les structures et les processus organisationnels",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE702": {
+                    "type_liaison": "ciblee"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.12",
+            "nom": "Communiquer avec différentes cultures",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.13",
+            "nom": "Utiliser des méthodes de management pour la motivation en projet",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.14",
+            "nom": "Manager des équipes projet (gestion des organisations, résistance au changement…)",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        },
+        {
+            "code": "AC 4.15",
+            "nom": "Évaluer l'impact du projet en interne et en externe (responsabilité sociétale et environnementale, stratégie de l'entreprise…) ",
+            "UE_liees": {
+                "UE501": {
+                    "type_liaison": "fournie"
+                },
+                "UE601": {
+                    "type_liaison": "fournie"
+                },
+                "UE701": {
+                    "type_liaison": "fournie"
+                },
+                "UE801": {
+                    "type_liaison": "fournie"
+                },
+                "UE802": {
+                    "type_liaison": "variant"
+                },
+                "UE804": {
+                    "type_liaison": "ciblee"
+                },
+                "UE901": {
+                    "type_liaison": "variant"
+                },
+                "UE001": {
+                    "type_liaison": "variant"
+                }
+            }
+        }
+    ]
+}
